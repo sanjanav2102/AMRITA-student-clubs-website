@@ -53,13 +53,19 @@ This is a **User Interface Design** project built using **HTML, CSS, and JavaScr
 
 ---
 
-## 🧑‍💻 Author
+## 🧑‍💻 Contributors
 
-**Sanjana Viswanathan**  
+**Parvathy Krishna A**  
+B.Tech CSE Undergraduate | Amrita Vishwa Vidyapeetham  
+🔗 [GitHub Profile](https://github.com/parvathy2907)
+**Shruthi Shri A**  
+B.Tech CSE Undergraduate | Amrita Vishwa Vidyapeetham  
+🔗 [GitHub Profile](https://github.com/shruthishri1001)
+**Sumitra S**  
 B.Tech CSE Undergraduate | Amrita Vishwa Vidyapeetham  
 🔗 [GitHub Profile](https://github.com/sanjanav2102)
 
-![Contributors](https://contrib.rocks/image?repo=sanjanav2102/Amrita-Students-Clubs---website)
+
 
 
 ---
