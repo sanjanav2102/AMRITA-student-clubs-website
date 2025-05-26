@@ -53,19 +53,6 @@ This is a **User Interface Design** project built using **HTML, CSS, and JavaScr
 
 ---
 
-## 🧑‍💻 Contributors
-
-**Parvathy Krishna A**   🔗 [GitHub Profile](https://github.com/parvathy2907)
-
-**Shruthi Shri A**       🔗 [GitHub Profile](https://github.com/Shrutishri1001)
-
-**Sumitra S**            🔗 [GitHub Profile](https://github.com/sumi-devs)
-
-
-
-
----
-
 ## 📷 Deployed
 
 The website is deployed. Click deployment to view the website.
